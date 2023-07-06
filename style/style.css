@@ -1,0 +1,15 @@
+*{
+    margin: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#three{
+    font-display: hidden;
+    font-size: 100%;
+    
+}
+#inline01{
+    border: 10px solid yellow;
+    border-radius: 10%;
+    /* font-size: 5px; */
+}
